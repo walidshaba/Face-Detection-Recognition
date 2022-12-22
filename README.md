@@ -24,9 +24,5 @@ Debug the recognition file and wait for it to run while seeing the magic!!!!
 
 Note*: all the modules and libraries are in the virtual Environment env.
       To be able to have a full understanding of the project one should have a wild range of knowledge on OpenCv.
-      
-      Enjoy!!! 
-      
-      
-      
+      Enjoy!!!
       DON'T FORGET TO FOLLOW MY ACCOUNT https://github.com/walidshaba Thanks.
